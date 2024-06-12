@@ -1,0 +1,38 @@
+body {
+    background-color: slategrey;
+}
+
+@media only screen and (min-width: 600px) {
+    Body {
+        background-color: cyan;
+    }
+    .part1 {
+      color: red;
+      text-align: center;
+    }
+    .part2 {
+        color: darkgreen;
+        text-align: center;
+    }
+    .part3 {
+        color: rgb(216, 102, 206);
+        text-align: center;
+    }
+  } 
+  @media only screen and (max-width: 400px) {
+    body {
+      background-color: coral ;
+    }
+    .part1 {
+        color: blue;
+        text-align: center;
+    }
+    .part2 {
+        color: blueviolet;
+        text-align: center;
+    }
+    .part3 {
+        color: darkgoldenrod;
+        text-align: center;
+    }
+  }

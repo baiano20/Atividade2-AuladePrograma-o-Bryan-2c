@@ -36,6 +36,16 @@ body {
         text-align: center;
     }
   }
-  .part1 {border-color: blueviolet;
+  .part1 {
+    border-color: blueviolet;
 border-style: inset;
-border-width: 8px;}
+border-width: 8px;
+}
+.part2 {
+  border-color: darkgreen;
+    border-style: ridge;
+    border-width: 8px;
+  }
+    .part3 {border-color: darkkhaki;
+      border-style: ridge;
+      border-width: 8px;}

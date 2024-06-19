@@ -36,3 +36,6 @@ body {
         text-align: center;
     }
   }
+  .part1 {border-color: blueviolet;
+border-style: inset;
+border-width: 8px;}
